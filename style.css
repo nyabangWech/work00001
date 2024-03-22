@@ -1,0 +1,96 @@
+
+.container{
+    background-color:aquamarine;
+    color:white;
+
+
+}.navbar{
+    display:flex;
+    gap:10%;
+}.image{
+    background-image: url(images/pexels-mart-production-8217485.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    width:100vw;
+    font-size: xx-large;
+    padding:10%;
+}#phara{
+    display:flex;
+    gap:10%;
+}#expert{
+    display:flex;
+}.text{
+
+}.integration{
+    text-align: center;
+    
+    background-color: aqua;
+    background-repeat: no-repeat;
+    color:black;
+    width:90%;
+    padding:10%;
+}#blogs{
+display:flex;
+gap:50%;
+}#images{
+
+}#enctry{
+
+}.button4{
+    border-radius:4px;
+    padding:13px;
+    background-color: blue;
+    color:aliceblue;
+}.want{
+   text-align: center; 
+}.subtitle{
+    text-align: center;
+    
+}.btns{
+    background-color: blue;
+    color:white;
+    width:200px;
+    padding:20px;
+}#images{
+   display:flex; 
+   gap:10%;
+
+}.imagecon{
+    
+}#enctry{
+    display:flex;
+    gap:10%;
+}.log{
+    border-radius:4px;
+    padding:13px;
+    border-color: blue;
+}.footer{
+    display:flex;
+}
+.all{
+    background-color: orangered;
+    font-size: medium;
+    color: black;
+}.view{
+    background-color: blue;
+    border-radius:4px;
+    color:white;
+}
+.images{
+    display: flex;
+}.job{
+    background-color: blueviolet;
+    border-radius:40px;
+    color:black;   
+}.footer{
+    border-bottom: 5%;
+    border-radius:50px;
+    background-color: cornflowerblue;
+    display:flex;
+    gap:10%;
+}.email{
+    border-radius:4px;
+    width:200px;
+    background-color: aquamarine;
+}
